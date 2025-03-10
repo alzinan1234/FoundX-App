@@ -2,8 +2,6 @@ import React from "react";
 
 export default function Home() {
   return (
-    <section className="">
-      <h1>found x</h1>
-    </section>
+    <div className="h-[calc(100vh-64px)] bg-[url('/sunglass.jpg')] bg-cover bg-center"></div>
   );
 }
